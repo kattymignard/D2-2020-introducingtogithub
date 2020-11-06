@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&family=Secular+One&family=Ultra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&family=Lato:wght@700&display=swap');
+
+body {
+
+font-family: 'Roboto', sans-serif;
+font-size: 1.5em;
+line-height: 150%;
+}
+
+h1 {
+
+font-family: 'Ultra', serif;
+font-size: 4em;
+margin-top: 1.5em;
+margin-bottom: 1em;
+color: gray;
+line-height: 150%;
+
+}
+
+h2 {
+
+  font-family: 'Secular One', sans-serif;
+  font-size: 3em;
+  margin-top: 1.3em;
+  margin-bottom: 2em;
+  color: rgb(188, 217, 198);
+}
+
+#section02 p {
+
+  margin-bottom: 1em;
+  margin-left: 200px;
+  margin-right: 200px;
+
+}
+
+
+h4 {
+
+  font-family: 'Dawning of a New Day', cursive;
+  font-size: 6em;
+
+}
+
+h5 {
+font-family: 'Lato', sans-serif;
+color: white;
+}
+
+h6 {
+
+font-family: 'Ultra', serif;
+font-size: 4em;
+margin-top: 1.5em;
+margin-bottom: 1em;
+color: white;
+line-height: 150%;
+
+}
+
+#section03 p {
+font-family: 'Lato', sans-serif;
+font-size: 1em;
+margin-left: 30px;
+margin-right: 30px;
+
+}
