@@ -1,6 +1,6 @@
 header {
 
-  background: rgb(217, 68, 48);
+  background: rgb(188, 217, 198);
   display: flex;
   align-items: center;
 }
@@ -47,13 +47,14 @@ p1 {
 }
 
 h2 {
-
+  text-decoration: underline;
   text-align: center;
 }
 
 h4{
 
 text-align: center;
+line-height: 1em;
 }
 
 .logo {
@@ -87,12 +88,19 @@ nav {
 /* STYLE SECTION 01 (FOND AVEC CHAT) */
 
 #section01 {
-background: url('images/fond.jpg') no-repeat top center;
+background: url('images/fond2.jpg') no-repeat top center;
 background-size: cover;
 background-attachment: fixed;
 display: flex;
 justify-content: center;
 align-items: center;
+
+}
+
+
+#section01 h1{
+  color: rgb(250,250,250);
+  font-size: 4em;
 
 }
 
@@ -104,6 +112,16 @@ justify-content: center;
 }
 
 
+
+.info-card {
+
+  margin: 0.8em;
+  padding: 0.8em;
+  background: rgb(239, 244, 241);
+  flex-basis: 320px;
+
+
+}
 
 
 figure {
